@@ -22,19 +22,8 @@ FPGA/MCU · STM32H7/H4 · SDRAM/DCMI · FDCAN · Sensors (AS6221, INA219) · OrC
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?logo=stmicroelectronics&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-2C3E50?logo=kicad&logoColor=white)
 ![OrCAD](https://img.shields.io/badge/OrCAD-CC0000)
-![I2C](https://img.shields.io/badge/I2C-3C3C3C)
-![FDCAN](https://img.shields.io/badge/FDCAN-3C3C3C)
-![DCMI](https://img.shields.io/badge/DCMI-3C3C3C)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4A90E2)
-
----
-
-## 📈 Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesoo132&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesoo132&layout=compact)
 
 ---
 
 ## 📫 Contact
-- Email: yourname@email.com  
-- Blog/Portfolio: (link)
+- Email: 20201435@daejin.ac.kr  
