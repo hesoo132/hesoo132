@@ -1,5 +1,8 @@
 # Hi, I'm HeSoo! 👋
 
+I’m a **senior Electronics Engineering student at Daejin University**, focusing on embedded systems and hardware design.  
+I enjoy building **MCU-based boards, writing firmware, and experimenting with sensors and vision systems**.
+
 **Embedded Systems & Hardware Design**  
 FPGA/MCU · STM32H7/H4 · SDRAM/DCMI · FDCAN · Sensors (AS6221, INA219) · OrCAD/KiCad
 
