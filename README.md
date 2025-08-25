@@ -19,7 +19,7 @@ FPGA/MCU · STM32H7/H4 · SDRAM/DCMI · FDCAN · Sensors (AS6221, INA219) · OrC
 
 ### 🔤 Languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF3E00?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white)
 
